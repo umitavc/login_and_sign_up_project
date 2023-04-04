@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "586347122315",
+    "project_id": "fir-getx-app-bc713",
+    "storage_bucket": "fir-getx-app-bc713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586347122315:android:7fa216b17924103b668e8e",
+        "android_client_info": {
+          "package_name": "com.example.login_and_sign_up_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586347122315-f65ifi72fn0m4g5o0560oflcdl2d0ktf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCz79RRFphFLlAKWEyBvWqlZNdEt_6BZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586347122315-f65ifi72fn0m4g5o0560oflcdl2d0ktf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586347122315-oc0derpl8ko3tnigcl2hps8n6le9fu1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginAndSignUpProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
